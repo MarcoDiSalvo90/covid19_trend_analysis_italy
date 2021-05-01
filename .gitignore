@@ -1,0 +1,6 @@
+infections/
+vaccines/
+
+.idea
+__pycache__
+.ipynb_checkpoints
