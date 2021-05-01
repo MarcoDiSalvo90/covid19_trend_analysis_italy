@@ -1,8 +1,8 @@
 # covid19_trend_analysis_italy
 This repository provides a simple analysis of the COVID-19 infections trend and an analysis about the use of vaccines for Italy.
 
-The analysis is done in Python by using the "Bokeh" interactive visualization library.
-Before run the cells of the Jupyter lab notebook, you need:
+The analysis is done in Python by using the "Bokeh" interactive visualization library.\n
+Before run the cells of the Jupyter lab notebook, you need to:
 
 - install Python language;
 - install the requirements with the command "pip install -r requirements.txt";
